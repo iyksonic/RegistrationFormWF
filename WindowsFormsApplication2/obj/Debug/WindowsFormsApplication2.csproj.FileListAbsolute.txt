@@ -10,3 +10,15 @@ c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\WindowsFormsAppli
 c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\ndukwe ikedieze\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\bin\Debug\MySql.Web.dll
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\NDUKWE IKEDIEZE\Documents\Visual Studio 2015\Projects\RegistrationForm\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

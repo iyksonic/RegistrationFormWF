@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 using System.Net;
+using System.Text.RegularExpressions;
+
 
 
 namespace WindowsFormsApplication2
@@ -27,7 +29,28 @@ namespace WindowsFormsApplication2
         {
             try
             {
+                string txtName = textBoxName.Text;
+                string txtEmail = textBoxEmail.Text;
+                string txtPhone = textBoxPhone.Text;
+                if(txtName == " " || txtEmail == "" || txtPhone == "")
+                {
+                    MessageBox.Show("check your field well");
+                }
+                
+               else if (!Regex.IsMatch(txtPhone, @"[0-9]"))
+                {
+                 MessageBox.Show("check phone no");
+                }
+                else if (textBoxPhone.MaxLength > 11)
+                {
+                    MessageBox.Show("check phone no length");
+                }
+
+                else {
+
                 string command = string.Format("INSERT INTO users (name, email, phone_number) " +
+                
+                    
                     "VALUES ('{0}', '{1}', '{2}')", textBoxName.Text, textBoxEmail.Text, textBoxPhone.Text);
                 MySqlCommand cmd = new MySqlCommand(command, myConnection);
                 myConnection.Open();
@@ -38,6 +61,7 @@ namespace WindowsFormsApplication2
                 textBoxEmail.Clear();
                 textBoxName.Clear();
                 textBoxPhone.Clear();
+                }
             }
 
             catch (Exception ex)
